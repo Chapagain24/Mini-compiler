@@ -1,4 +1,3 @@
-# Mini-compiler
 Prerequisites:
 Flex (The Fast Lexical Analyzer)
 Bison (GNU Parser Generator)
